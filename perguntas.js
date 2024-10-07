@@ -1,0 +1,4 @@
+criaCartao(
+    'categoria',
+    'pergunta',
+    'resposta')
