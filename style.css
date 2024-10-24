@@ -40,6 +40,8 @@ footer{
     height: 100%;
     color: var(--branco);
     text-align: center;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .conteudo-cartao h3{
@@ -50,6 +52,7 @@ footer{
     padding: 0.6rem;
     font-size: 1.2vw;
     border-radius: 0.6rem;
+    backface-visibility: hidden;
 }
 
 .conteudo-cartao p{
@@ -59,7 +62,7 @@ footer{
 }
 
 .cartao:hover .conteudo-cartao{
-    transform: rotateX(180deg);
+    transform: rotateY(180deg);
 }
 
 .pergunta-cartao, resposta-cartao{
