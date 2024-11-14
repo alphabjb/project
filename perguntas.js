@@ -98,5 +98,6 @@
         'História - Primeira Guerra Mundial',
         'Como a Primeira Guerra Mundial moldou o mapa político da Europa no período pós-guerra?',
         'Mudanças no mapa da Europa: A guerra levou à queda de impérios (Austro-Húngaro, Otomano, Russo) e à criação de novos países, redesenhando fronteiras na Europa.')
+
 }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
