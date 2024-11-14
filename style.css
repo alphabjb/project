@@ -1,10 +1,10 @@
 :root{
-    --fundo:#ADD8E6;
-    --cor-frente:#4169E1;
-    --cor-verso:#00008B;
-    --destaque:#00BFFF;
+    --fundo: #48D1CC;
+    --cor-frente: #FFFFFF;
+    --destaque: #00FFFF;
+    --branco: #FFFFFF;
     --preto: #000000;
-    --branco: #ffffff;
+
 }
 
 body{
@@ -12,15 +12,20 @@ body{
     margin: 0;
 }
 
+header{
+    background-color: #000000;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
 footer{
     position: fixed;
     bottom: 0;
-    background-color: var(--preto);
-    color: var(--branco);
+    background-color:var(--preto);
+    color:var(--branco); 
     width: 100%;
     text-align: center;
 }
-
 #container{
     padding: 2rem;
     display: flex;
@@ -37,8 +42,8 @@ footer{
 
 .conteudo-cartao{
     background-color: var(--cor-frente);
+    color: var(--preto);
     height: 100%;
-    color: var(--branco);
     text-align: center;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
@@ -61,8 +66,8 @@ footer{
     font-size: 1.4vw;
 }
 
-.cartao:hover .conteudo-cartao{
-    transform: rotateY(180deg);
+.cartao.active .conteudo-cartao{
+    transform: rotateY(180deg)
 }
 
 .pergunta-cartao, .resposta-cartao{
