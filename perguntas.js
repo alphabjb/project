@@ -1,99 +1,102 @@
-criaCartao(
-    'História - Getúlio Vargas',
-     'Em que ano Getúlio Vargas assumiu a presidência do Brasil pela primeira vez?',
-     '1930')
-      
-  criaCartao(
-    'História - Getúlio Vargas',
-    'Qual o nome do regime ditatorial estabelecido por Vargas em 1937?',
-    'Estado Novo')
-      
-   criaCartao(
-    'História - Getúlio Vargas',
-    'Qual foi a política trabalhista criada durante o governo Vargas que beneficia trabalhadores até hoje?',
-    'CLT - Consolidação das Leis do Trabalho')
-      
+
     criaCartao(
-    'História - Getúlio Vargas',
-    'Como Getúlio Vargas voltou ao poder em 1951?',
-    'Através de eleições diretas')
-      
+        'História - Primeira Guerra Mundial',
+        'Quais foram as principais causas da Primeira Guerra Mundial?',
+        'Causas principais: Nacionalismo, imperialismo, militarismo e sistema de alianças, além do assassinato de Francisco Ferdinando em 1914.')
+
     criaCartao(
-    'História - Getúlio Vargas',
-    'Qual foi a principal motivação para o suicídio de Getúlio Vargas em 1954?',
-    'Pressão política e crise militar')
-      
+        'História - Primeira Guerra Mundial',
+        'Como o assassinato do arquiduque Francisco Ferdinando em Sarajevo contribuiu para o início da guerra?',
+        'Assassinato de Francisco Ferdinando: Foi o estopim para a guerra, pois gerou uma série de reações e ativou as alianças militares, levando ao conflito.')
+
     criaCartao(
-    'Biologia - Gregor Mendel',
-    'O que Gregor Mendel utilizou como objeto de estudo para formular as leis da hereditariedade?',
-    'Plantas de ervilha')
-      
-      criaCartao(
-      'Biologia - Gregor Mendel',
-      'Qual é a primeira lei de Mendel?',
-      'Lei da Segregação')
-      
-      criaCartao(
-      'Biologia - Gregor Mendel',
-      'Qual é a segunda lei de Mendel?',
-      'Lei da Segregação Independente')
-      
-      criaCartao(
-      'Biologia - Gregor Mendel',
-      'Em que ano Gregor Mendel publicou seus experimentos sobre a hereditariedade?',
-      '1866')
-      
-      criaCartao(
-      'Biologia - Genética',
-      'Qual é a unidade fundamental da hereditariedade?',
-      'Gene')
-      
-      criaCartao(
-      'Biologia - Genética',
-      'O que é um alelo?',
-      'Uma das diferentes formas de um gene')
-      
-      criaCartao(
-      'Matemática - Seno, Cosseno e Tangente',
-      'Qual é a definição de seno em um triângulo retângulo?',
-      'O seno de um ângulo é a razão entre o cateto oposto ao ângulo e a hipotenusa')
-      
-      criaCartao(
-      'Matemática - Seno, Cosseno e Tangente',
-      'Qual é a definição de cosseno em um triângulo retângulo?',
-      'O cosseno de um ângulo é a razão entre o cateto adjacente ao ângulo e a hipotenusa')
-      
-      criaCartao(
-      'Matemática - Seno, Cosseno e Tangente',
-      'Qual é a definição de tangente em um triângulo retângulo?',
-      'A tangente de um ângulo é a razão entre o cateto oposto ao ângulo e o cateto adjacente')
-      
-      criaCartao(
-      'Matemática - Seno, Cosseno e Tangente',
-      'Qual é a relação fundamental entre seno e cosseno em um triângulo retângulo?',
-      'Seno ao quadrado mais cosseno ao quadrado é igual a 1')
-      
-      criaCartao(
-      'Matemática - Seno, Cosseno e Tangente',
-      'Qual é a tangente de 45 graus?',
-      '1')
-      
-      criaCartao(
-      'Português - Romantismo',
-      'Qual é o marco inicial do Romantismo no Brasil?',
-      'A publicação de "Suspiros Poéticos e Saudades" de Gonçalves de Magalhães, em 1836')
-      
-      criaCartao(
-      'Português - Romantismo',
-      'Qual foi o principal autor da primeira geração romântica no Brasil?',
-      'Gonçalves Dias')
-      
-      criaCartao(
-      'Português - Romantismo',
-      'Qual característica do Romantismo é conhecida por valorizar o nacionalismo e o sentimentalismo?',
-      'Exaltação dos sentimentos e da pátria')
-      
-      criaCartao(
-      'Português - Romantismo',
-      'Em qual contexto histórico o Romantismo surgiu no Brasil?',
-      'Durante o período pós-independência do Brasil, no século XIX')
+        'História - Primeira Guerra Mundial',
+        'O que foram as "Trincheiras" e como elas afetaram a estratégia militar durante a guerra?',
+        'Trincheiras: Eram fossos usados para proteção dos soldados. Elas resultaram em uma guerra estagnada, com altas baixas e condições desumanas.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Quais foram as principais alianças formadas durante a Primeira Guerra Mundial e quem eram os países envolvidos?',
+        'Principais alianças: A Tríplice Entente (França, Reino Unido e Rússia) e a Tríplice Aliança (Alemanha, Áustria-Hungria e Itália).')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'O que foi o "Plano Schlieffen" e qual foi seu objetivo na guerra?',
+        'Plano Schlieffen: Estratégia alemã para evitar uma guerra em duas frentes, com invasão rápida da França. Falhou devido à resistência da Bélgica e à rápida mobilização russa.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Como a guerra impactou as mulheres no campo de trabalho e nas sociedades europeias?',
+        'Impacto nas mulheres: As mulheres assumiram postos de trabalho industriais e outros, o que contribuiu para a conquista do voto feminino após a guerra.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'O que foi a Batalha de Verdun e qual foi sua importância na guerra?',
+        'Batalha de Verdun: Uma das batalhas mais longas e sangrentas, simbolizando o sofrimento e a resistência no front ocidental.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Qual foi o papel dos Estados Unidos na Primeira Guerra Mundial e como sua entrada mudou o curso do conflito?',
+        'Papel dos EUA: Entraram em 1917, ajudando a virar o jogo a favor da Tríplice Entente com recursos financeiros e militares.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Como a tecnologia militar, como tanques e aviões, mudou a forma de combate durante a guerra?',
+        'Tecnologia militar: Inovações como tanques e aviões mudaram a guerra, proporcionando novas táticas e formas de combate.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'O que foi o Tratado de Versalhes e como ele afetou os países envolvidos na guerra?',
+        'Tratado de Versalhes: Assinado em 1919, impôs pesadas sanções à Alemanha, alterou fronteiras e causou instabilidade, contribuindo para a Segunda Guerra Mundial.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Quais foram as principais frentes de batalha durante a Primeira Guerra Mundial?',
+        'Frentes de batalha: O principal foi o frente ocidental (França e Bélgica), além da frente oriental (Alemanha e Rússia) e outras batalhas no Oriente Médio e África.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Como a guerra influenciou o império Otomano e o que aconteceu com ele após o fim da guerra?',
+        'Império Otomano: Colapsou após a guerra, levando à formação da República da Turquia e à divisão de seus territórios.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'O que foram as "Guerras de Trincheiras" e como elas levaram a milhares de mortes e condições desumanas?',
+        'Guerras de trincheiras: Guerra caracterizada por longas batalhas estagnadas e grandes baixas, com condições de vida muito duras para os soldados.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'O que foi a "guerra de desgaste" e como ela se refletiu nas táticas dos países em guerra?',
+        'Guerra de desgaste: Estratégia focada em esgotar os recursos e forças do inimigo, sem avanços significativos no território.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Quais foram os principais países da "Tríplice Aliança" e da "Tríplice Entente"?',
+        'Países da Tríplice Aliança e Entente: Tríplice Aliança: Alemanha, Áustria-Hungria e Itália. Tríplice Entente: França, Reino Unido e Rússia.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Como a propaganda foi usada durante a Primeira Guerra Mundial para influenciar a opinião pública',
+        'Propaganda: Usada para manter o moral, recrutar soldados e demonizar o inimigo, influenciando a opinião pública.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Quais foram as consequências sociais e econômicas da Primeira Guerra Mundial para os países europeus?',
+        'Consequências sociais e econômicas: Destruição generalizada, altas baixas e dificuldades econômicas, com a Europa em ruínas após a guerra.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Como a Primeira Guerra Mundial levou ao surgimento de novos movimentos políticos, como o comunismo na Rússia?',
+        'Movimentos políticos pós-guerra: O comunismo surgiu na Rússia após a Revolução de 1917, levando à criação da União Soviética.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Quais foram as principais batalhas no front ocidental e como elas afetaram o resultado da guerra?',
+        'Principais batalhas no front ocidental: Batalhas como Verdun e Somme foram decisivas, com enormes perdas humanas e mudanças no equilíbrio da guerra.')
+
+    criaCartao(
+        'História - Primeira Guerra Mundial',
+        'Como a Primeira Guerra Mundial moldou o mapa político da Europa no período pós-guerra?',
+        'Mudanças no mapa da Europa: A guerra levou à queda de impérios (Austro-Húngaro, Otomano, Russo) e à criação de novos países, redesenhando fronteiras na Europa.')
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
